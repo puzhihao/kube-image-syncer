@@ -7,4 +7,4 @@ kubernetes:
 
 
 images:
-  - quay.io/prometheus/node-exporter:v1.7.0
+  - quay.io/prometheus/pushgateway:v1.7.0
