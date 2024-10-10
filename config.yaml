@@ -7,4 +7,4 @@ kubernetes:
 
 
 images:
-  - docker.io/grafana/grafana:11.2.1
+  - quay.io/kiwigrid/k8s-sidecar:1.27.4
