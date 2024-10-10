@@ -7,4 +7,5 @@ kubernetes:
 
 
 images:
-  - quay.io/prometheus/pushgateway:v1.7.0
+  - quay.io/prometheus-operator/prometheus-config-reloader:v0.70.0
+  - quay.io/prometheus/prometheus:v2.49.1
