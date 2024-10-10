@@ -7,5 +7,5 @@ kubernetes:
 
 
 images:
-  - quay.io/prometheus-operator/prometheus-config-reloader:v0.70.0
-  - quay.io/prometheus/prometheus:v2.49.1
+  - quay.io/prometheus-operator/prometheus-config-reloader:v0.77.1
+  - harbor.cloud.pixiuio.com/pixiuio/prometheus:v2.54.1
