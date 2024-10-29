@@ -7,8 +7,4 @@ kubernetes:
 
 
 images:
-  - nvcr.io/nvidia/cloud-native/gpu-operator-validator:v24.6.2
-  - nvcr.io/nvidia/k8s-device-plugin:v0.16.2-ubi8
   - registry.k8s.io/nfd/node-feature-discovery:v0.16.3
-  - nvcr.io/nvidia/gpu-operator:v24.6.2
-  - nvcr.io/nvidia/k8s/dcgm-exporter:3.3.7-3.5.0-ubuntu22.04
